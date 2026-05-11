@@ -1,4 +1,4 @@
-name: Disable Workflow concurrency
+name: Disable Workflow DvOps
 
 on:
   push:
