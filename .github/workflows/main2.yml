@@ -8,6 +8,6 @@ jobs:
   disable:
     runs-on: ubuntu-latest
 
-steps:
-  - name: Shoaib
-    run: echo "Disable Workflow DevOps"
+    steps:
+      - name: Shoaib
+        run: echo "Disable Workflow DevOps."
